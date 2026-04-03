@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/15198601-3b21-4f0b-9aa2-5b95f3b112da
 # [LAB 1] - APPLICATION PROGRAMMING INTERFACE 
 
 ## 1. Thông tin sinh viên 
@@ -53,4 +55,8 @@ Dưới đây là kết quả mẫu khi gọi API POST /predict:
 }
 ```
 
-## 7. Liên kết video demo [Chèn link video YouTube hoặc Drive của bạn tại đây]
+## 7. Liên kết video demo:
+
+
+https://github.com/user-attachments/assets/79884817-2b5e-4c49-863f-334bba3512b4
+
