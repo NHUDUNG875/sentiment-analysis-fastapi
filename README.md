@@ -57,6 +57,6 @@ Dưới đây là kết quả mẫu khi gọi API POST /predict:
 
 ## 7. Liên kết video demo:
 
+https://github.com/user-attachments/assets/9e718f81-6554-4bf4-a1d2-5c56dde6f534
 
-https://github.com/user-attachments/assets/79884817-2b5e-4c49-863f-334bba3512b4
 
