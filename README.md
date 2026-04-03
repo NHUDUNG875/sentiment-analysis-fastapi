@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/15198601-3b21-4f0b-9aa2-5b95f3b112da
 # [LAB 1] - APPLICATION PROGRAMMING INTERFACE 
 
 ## 1. Thông tin sinh viên 
